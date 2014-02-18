@@ -1,0 +1,484 @@
+
+Spelpjäser för brädspelet Hnefatafl.
+
+######
+
+Spelpjäser för brädspelet Hnefatafl.
+
+# Hnefatafl - vikingarnas brädspel
+
+> Historia Vikingarna hade allt som oftast ett hårt liv innehållande mycket
+> arbete. Men ibland fanns det tid för lek och underhållning. Här uppe i Norden
+> kan man tänka sig att brädspel var en trevlig sysselsättning under mörka och
+> kalla vinterkvällar när arbetet var slutfört.
+
+Publicerad 2013-03-30, klockan 23:19
+
+
+[Kommentarer (5)][23]
+
+Liknande nyheter:
+
+  1. [Brädspel visar vardagen i kommunistisk planekonomi][24]
+  2. [Spel som uppmanar till självförsvar mot våldtäktsmän retar Aftonbladet][25]
+  3. [Staten satsar på mångkulturspel för bankanställda][26]
+  4. [Richard III funnen][27]
+  5. [Århundradets arkeologiska fynd][28]
+
+Även om mycket av det man känner till om hur vikingarna roade sig kommer från sagalitteraturen, som inte kan ses som helt tillförlitliga som källa, så finns det även arkeologiska fynd som talar sitt tydliga språk. Spelpjäser av ben och glas har hittats i gravar från 200-talet e.Kr. Till de äldsta spelen brukar Hnefatafl räknas. Man spelade troligen det redan under yngre järnåldern och det var populärt under vikingatiden.
+
+Bland annat har arkeologer hittat spelpjäser från Hnefatafl i gravar på Birka. Spelet påminner lite om schack och under vikingatiden hade spelet troligen samma höga anseende som schack har i dag. Var man en skicklig spelare gav det en hög status. Spelet omnämns på flera ställen i de isländska sagorna. Bland annat står att läsa i Hervararsagan:
+
+> ”Det är tvenne angelikor, som stå tillsammans, och en ung stängel spirar upp emellan dem.
+>
+> Gestumblinde sporde:
+>
+> Vilka mor,
+> vapenlösa,
+> draga till strid om sin drott?
+> De rödbruna hult
+> honom värna
+> emot de mordlystna vita.
+> Tänk på gåtan,
+> den tyd, kung Hedrek!
+>
+> Hedrek svarade:
+> God den är,
+> gåtan din -
+> men gissad, Gestumblinde!
+>
+> -Du menar brädspelet; utan vapen slåss brickorna om kungen; de rödbruna följa honom.”
+> (Översatt till svenska av Albert Ulrik Bååth)
+
+Brädet består av ett udda antal rutor, 9 x 9 eller 11 x 11, men även fler fungerar. Pjäserna i spelet består av två arméer. Den ena styrkan har en kung, som oftast är större än de andra pjäserna, och hans försvarare, vikingarna. Den andra styrkan består av anfallarna, landborna. Anfallarna är alltid dubbelt så många som försvararna.
+
+Vid spelets början befinner sig kungen i mittenrutan på brädet och hans vikingar står uppställda runt honom. Landborna belägrar kungen och är utplacerade vid spelbrädets ytterkanter. Målet för kungen är att bryta sig ut från brädet, så att han kan fly. Lyckas detta så blir vinsten den belägrade sidans. De anfallande vinner om de kan förhindra en utbrytning och ta kungen till fånga. Detta lyckas genom att landborna omringar kungen på alla fyra sidor. Pjäserna får flyttas som tornet i schack, det vill säga vågrätt eller lodrätt och man får inte hoppa över pjäser. Diagonala drag förekommer inte. Vikingar och landbor slås ut genom att de omringas på två motsatta sidor.
+
+Det var länge en gåta hur man spelade Hnefatafl. Under medeltiden tycks spelet trängts undan av schackspelet och blivit bortglömt. Och även om spelet nämns i de isländska sagorna finns här inte tillräckligt med uppgifter för en rekonstruktion. De arkeologiska fynden visar på styrkeförhållandena mellan spelets arméer, men däremot finns inga bräden bevarade från vikingatiden.
+
+**Carl von Linné** beskriver i manuskriptet till sin lappländska resa ett spel som han kallar Tablut. Detta spel har han sett några samiska gubbar spela i Kvikkjokk 1732. Spelet visar stora likheter med Hnefatafl och kan vara detsamma. Tack vare Linnés beskrivning kan man därför göra en rekonstruktion av Hnefatafl. I Linnés beskrivning kallas dock den ena sidan svenskar och de andra moskoviter. Linnés beskrivning har dock en del oklarheter när det kommer till beskrivningen av spelet vilket gör att de olika rekonstruktionsförsöken som gjorts skiljer sig lite ifrån varandra. 1972 hade man en spelutställning och då tog man fram en rekonstruktion av spelets regler vilken har visat sig ge ett fungerande och spännande spel.
+
+1981 återuppväcktes spelat när Alga gav ut det klassiska spelet i en nyutgåva. Sloganen för spelet löd ”Ett äkta spel från vikingatiden!”.
+
+Men det var inte bara Hnefatafel som spelades under vikinga- och medeltiden. Flera andra spel dök upp och de beresta vikingarna kom säkerligen i kontakt med olika varianter av spel runt om på sina resor i världen. Även spelet Kvarn finns bland arkeologiska fynd samt flera tärningar.
+
+Hnefatafl likt schack är ett strategispel där det gäller att ha huvudet på skaft. Vill man prova på spelet kan man relativt enkelt tillverka ett eget eller varför inte prova att spela ett parti [online][29]? Snart kommer spelet även att finnas till försäljning hos [Arminius.se][30].
+
+![Saga Berlin][31]
+
+#### Saga Berlin
+### [saga.berlin@realisten.se][34]
+
+
+**Efterhandsmodererat:** Realisten.se ansvarar ej för innehållet nedan utan den som postar kommentarerna är själv juridiskt ansvarig för innehållet. Kommentarerna raderas automatiskt efter 7 dygn.
+
+
+Senaste nytt
+
+PopulÄrt
+
+Kommenterat
+
+  * 7 timmar sedan
+
+[Främlingar från Sverige på brottsturnéer i Norge][37]
+
+  * 9 timmar sedan
+
+__[Nytt liv i övergreppsanklagelserna mot Woody Allen][38]
+
+  * 2014-02-01
+
+[Främlingsfientlighet i Sjödalen][39]
+
+  * 2014-02-01
+
+[Främling knivskar man på Norrmalm][40]
+
+  * 2014-02-01
+
+[Taxichaufför rånad i Rosengård][41]
+
+  * 2014-02-01
+
+[Realisten på demonstration med Gyllene gryning][42]
+
+  * 2014-02-01
+
+[Angående rasblandande konservativa och att anamma fiendens tankegods][43]
+
+  * 2014-02-01
+
+[Tiggare stal mobiltelefon][44]
+
+För äldre nyheter, se [nyhetsarkivet][45]
+
+  * 2013-12-30
+
+_ _[Andréas Johansson dömd för mordet på Ida][46]
+
+  * 2013-12-15
+
+_ _[Är det rätt att attackera vänsterdemonstrationer?][47]
+
+  * 2014-01-17
+
+_ _[En talande bild][48]
+
+  * 2013-12-30
+
+_ _[92-åring våldtogs på julafton][49]
+
+  * 2013-12-07
+
+_ _[Svenskarnas parti demonstrerar i Lidköping][50]
+
+  * 2013-12-19
+
+_ _[Nya samarbeten mellan våldsvänstern och Expressen][51]
+
+  * 2014-01-10
+
+_ _[Medlem i Vänsterpartiet och Revolutionära Fronten — misstänks för grov
+misshandel][52]
+
+  * 2014-01-24
+
+_ _[Zlatan: Jag är svensk och nationalsången är långtråkig][53]
+
+  * [_Finsknationalist_: Vad roligt Moreno , du har pappas företag! Skaffa dig
+en utbildning och börja jobba på allvar. De n...][54]
+
+söndag, 2 februari klockan 22:53
+
+  * [_Moreno_: Möter miljoner svenskar den varje dag? nu ljuger du. Miljoner
+svenskar tycker inte som du, för skull...][55]
+
+söndag, 2 februari klockan 22:51
+
+  * [_Allan Sethsson_: "Mina föräldrar hade visserligen inbrott, det var en
+ung svensk kille som gjorde det." Ge oss polis...][56]
+
+söndag, 2 februari klockan 22:23
+
+  * [_intel outside_: Pappas företag ja... kunde just tänka mig att du är en
+ung person utan särdeles mycket livserfarenhe...][57]
+
+söndag, 2 februari klockan 22:11
+
+  * [_perry_: Philip Seymore Hoffman är ju död :( så tråkigt......][58]
+
+söndag, 2 februari klockan 22:08
+
+  * [_Moreno_: Att man ska behövva upplysa människor om småsaker, lobotomi
+används inte inom läkarvetenskapen idag....][59]
+
+söndag, 2 februari klockan 22:07
+
+
+
+[ ![][60]][61]
+
+## [Frost — Ett nordiskt äventyr från Disney][62]
+
+**Recension** [Disneys nya storfilm heter Frost (originaltitel Frozen). ][61] Dan Eriksson har sett den och berättar här om sina intryck av filmen som har svensk biopremiär 31 januari.
+
+[ ![][63]][64]
+
+## [Politiskt attentat mot svenskpartist leder till ny
+fullmäktigekandidat][65]
+
+**Göteborg** [Natten till i fredags angreps Sebastian Bjurmans bostad. ][64] Gärningsmännen klottrade på husfasaden och slog en yxa upprepade gånger i hans dörr. Som reaktion har Bjurman nu bestämt sig för att kandidera för Svenskarnas parti i höstens val.
+
+
+
+[ ![][66]][67]
+
+## [Stephan Günther riskerar inte längre femårigt fängelsestraff för olagliga
+toner][68]
+
+**Tyskland** [Efter en lång tid i danskt och tyskt häkte, förlorad inkomst och statliga trakasserier är den tyske nationalisten Stephan Günther inte längre misstänkt för att ha spridit förbjuden nationalistisk musik.][67]
+
+[ ![][69]][70]
+
+## [Zlatan: Jag är svensk och nationalsången är långtråkig][53]
+
+**Sverige** [I en ny reklamfilm från Volvo som har premiär i helgen framför Zlatan en ny version av Sveriges nationalsång. ][70] I en intervju med Dagens Industri förklarar han att den svenska nationalsången är långtråkig och att man måste acceptera att han är svensk.
+
+[ ![][71]][72]
+
+## [Gagnefs politiker mötte kritik mot flyktingförläggning][73]
+
+**Gagnef** [Politikerna i Gagnef möttes av kritiska frågor när de kallat till möte för att berätta om en ny flyktingförläggning i Gagns Inn. ][72] Realisten.se har pratat med en av kritikerna som fanns på plats.
+
+[ ![][74]][75]
+
+## [Riksdagen debatterade politiskt våld][76]
+
+**Analys** [I dag debatterade Riksdagen det politiska våldet. ][75] Mats Blom
+sammanfattar här dagens debatt.
+
+[ ![][77]][78]
+
+## [Daniel Spansk: Svenskarnas parti bringar välbehövd vitalitet][79]
+
+**Intervju** [Möt Daniel Spansk, kandidat för Svenskarnas parti i
+Nykvarn.][78]
+
+
+Debatt
+
+## [Profit eller kultur?][80]
+
+[Samer som ägnar sig åt rennäring har en mängd särrättigheter som bland annat
+undantar det svenska djurskyddet. ][81] Magnus Wardmo tar här upp exempel och
+ifrågasätter varför samerna har en annan lagstiftning än svenskarna.
+
+Krönika
+
+## [Jag är svensk och Zlatan är långtråkig][82]
+
+__ [Björn Björkqvist bemöter här Zlatans påståenden i DI Weekend. ][83] Zlatan
+är så politiskt korrekt att han skulle kunna vara med i vilket som helst av
+sjuklöverns partier.
+
+USA
+
+## [Barack Obama i cannabisliberalt utspel][84]
+
+[I en nyligen publicerad intervju uttalar sig president Barack Obama om
+marijuana. ][85] Han gör samma ställningstagande som George Soros och andra
+narkotikaliberaler.
+
+Krönika
+
+## [Stöd inte en hopplös politik][86]
+
+[Ska svenska biståndspengar användas till flyktingar i deras närmiljö eller i
+Sverige? ][87] Jörgen Kromann har ett annat förslag.
+
+Krönika
+
+## [En talande bild][48]
+
+[Fotografier kan ta oss tillbaka till svunna tider och påminna om hur vårt
+land en gång såg ut. ][88] Två fotografier bredvid varandra från olika årtal
+kan skvallra om hur Sverige förändrats.
+
+
+
+## Annons
+
+[![Svenskarnas parti blagula band][89]][90]
+
+[![Den trotsiga][91]][92]
+
+[![Djuren i Yggdrasil][93]][94]
+
+[![realisten_reklam_vilka][95]][96]
+
+[![Stöd realisten][97]][98]
+
+
+
+
+   [1]: https://www.realisten.se/wp-content/themes/realisten/images/logo.png
+
+   [2]: https://www.realisten.se/
+
+   [3]: https://www.realisten.se/category/samtliga_nyheter/
+
+   [4]: https://www.realisten.se/category/prenumerant/
+
+   [5]: #
+
+   [6]: https://www.realisten.se/category/samtliga_nyheter/Sverige/
+
+   [7]: https://www.realisten.se/category/samtliga_nyheter/brott-och-straff/
+
+   [8]: https://www.realisten.se/category/samtliga_nyheter/varlden/
+
+   [9]: https://www.realisten.se/category/samtliga_nyheter/opinion/
+
+   [10]: https://www.realisten.se/category/samtliga_nyheter/politik/
+
+   [11]: https://www.realisten.se/category/samtliga_nyheter/opinion/ledare/
+
+   [12]: https://www.realisten.se/category/samtliga_nyheter/opinion/debatt/
+
+   [13]: https://www.realisten.se/category/samtliga_nyheter/opinion/kronika/
+
+   [14]: https://www.realisten.se/category/samtliga_nyheter/vetenskap/
+
+   [15]: https://www.realisten.se/category/samtliga_nyheter/kultur/
+
+   [16]: https://www.realisten.se/category/info14/
+
+   [17]: https://www.realisten.se/category/samtliga_nyheter/densvenske
+
+   [18]: https://www.realisten.se/kontakt/
+
+   [19]: https://www.realisten.se/redaktionen/
+
+   [20]: https://www.realisten.se/om/
+
+   [21]: https://www.realisten.se/wp-content/uploads/hnefatafl-560x320.jpg (#htmlcaption1)
+
+   [22]: https://www.realisten.se/wp-content/uploads/hnefatafl2-560x320.jpg (#htmlcaption2)
+
+   [23]: https://www.realisten.se/2013/03/30/hnefatafl-vikingarnas-bradspel/#comments (Kommentera Hnefatafl - vikingarnas brädspel)
+
+   [24]: https://www.realisten.se/2012/07/13/bradspel-visar-vardagen-i-kommunistisk-planekonomi/ (Brädspel visar vardagen i kommunistisk
+planekonomi)
+
+   [25]: https://www.realisten.se/2005/05/11/spel-som-uppmanar-till-sjalvforsvar-mot-valdtaktsman-retar-aftonbladet/ (Spel som uppmanar till självförsvar mot våldtäktsmän retar Aftonbladet)
+
+   [26]: https://www.realisten.se/2010/02/15/staten-satsar-pa-mangkulturspel-for-bankanstallda/ (Staten satsar på mångkulturspel för bankanställda)
+
+   [27]: https://www.realisten.se/2013/02/05/richard-iii-funnen/ (Richard III funnen)
+
+   [28]: https://www.realisten.se/2013/01/18/arhundradets-arkeologiska-fynd/ (Århundradets arkeologiska fynd)
+
+   [29]: http://aagenielsen.dk/hnefatafl_online.php (Hnefatafl online)
+
+   [30]: http://www.arminius.se (Arminius.se)
+
+   [31]: https://www.realisten.se/wp-content/authors/Saga-5.jpg
+
+   [32]: https://www.realisten.se/wp-content/plugins/flattr/img/flattr-badge-large.png
+
+   [33]: https://www.realisten.se/?flattrss_redirect&id=38104&md5=3518f5da4f61e2a0bcd631cc8122eaa0 (Flattr)
+
+   [34]: mailto:saga.berlin@realisten.se
+
+   [35]: https://twitter.com/share
+
+   [36]: https://www.realisten.se/wp-content/themes/realisten/images/kommentarer.jpg
+
+   [37]: https://www.realisten.se/2014/02/02/framlingar-fran-sverige-pa-brottsturneer-i-norge/ (Främlingar från Sverige på brottsturnéer i Norge)
+
+   [38]: https://www.realisten.se/2014/02/02/nytt-liv-i-overgreppsanklagelserna-mot-woody-allen/ (Nytt liv i övergreppsanklagelserna mot Woody Allen)
+
+   [39]: https://www.realisten.se/2014/02/01/framlingsfientlighet-i-sjodalen/ (Främlingsfientlighet i Sjödalen)
+
+   [40]: https://www.realisten.se/2014/02/01/framling-knivskar-man-pa-norrmalm/ (Främling knivskar man på Norrmalm)
+
+   [41]: https://www.realisten.se/2014/02/01/taxichauffor-ranad-i-rosengard-2/ (Taxichaufför rånad i Rosengård)
+
+   [42]: https://www.realisten.se/2014/02/01/realisten-pa-demonstration-med-gyllene-gryning/ (Realisten på demonstration med Gyllene gryning)
+
+   [43]: https://www.realisten.se/2014/02/01/om-rasblandande-konservativa-och-att-anamma-fiendens-tankegods/ (Angående rasblandande konservativa och att anamma fiendens tankegods)
+
+   [44]: https://www.realisten.se/2014/02/01/tiggare-stal-mobiltelefon/ (Tiggare stal mobiltelefon)
+
+   [45]: https://www.realisten.se/category/samtliga_nyheter
+
+   [46]: https://www.realisten.se/2013/12/30/andreas-johansson-domd-for-mordet-pa-ida/ (Andréas Johansson dömd för mordet på Ida)
+
+   [47]: https://www.realisten.se/2013/12/15/ar-det-ratt-att-attackera-vansterdemonstrationer/ (Är det rätt att attackera vänsterdemonstrationer?)
+
+   [48]: https://www.realisten.se/2014/01/17/en-talande-bild/ (En talande bild)
+
+   [49]: https://www.realisten.se/2013/12/30/92-aring-valdtogs-pa-julafton/ (92-åring våldtogs på julafton)
+
+   [50]: https://www.realisten.se/2013/12/07/svenskarnas-parti-demonstrerar-i-lidkoping/ (Svenskarnas parti demonstrerar i Lidköping)
+
+   [51]: https://www.realisten.se/2013/12/19/nya-samarbeten-mellan-valdsvanstern-och-expressen/ (Nya samarbeten mellan våldsvänstern och
+Expressen)
+
+   [52]: https://www.realisten.se/2014/01/10/medlem-i-vansterpartiet-och-revolutionara-fronten-misstanks-for-grov-misshandel/ (Medlem i Vänsterpartiet och Revolutionära Fronten — misstänks för grov misshandel)
+
+   [53]: https://www.realisten.se/2014/01/24/zlatan-jag-ar-svensk-och-nationalsangen-ar-langtrakig/ (Zlatan: Jag är svensk och nationalsången är
+långtråkig)
+
+   [54]: https://www.realisten.se/2014/02/01/realisten-pa-demonstration-med-gyllene-gryning/#comment-72484 (Commented on: Realisten på demonstration med Gyllene gryning)
+
+   [55]: https://www.realisten.se/2014/02/01/realisten-pa-demonstration-med-gyllene-gryning/#comment-72483 (Commented on: Realisten på demonstration med Gyllene gryning)
+
+   [56]: https://www.realisten.se/2014/02/01/om-rasblandande-konservativa-och-att-anamma-fiendens-tankegods/#comment-72482 (Commented on: Angående rasblandande konservativa och att anamma fiendens tankegods)
+
+   [57]: https://www.realisten.se/2014/02/01/realisten-pa-demonstration-med-gyllene-gryning/#comment-72481 (Commented on: Realisten på demonstration med Gyllene gryning)
+
+   [58]: https://www.realisten.se/2014/02/02/framlingar-fran-sverige-pa-brottsturneer-i-norge/#comment-72480 (Commented on: Främlingar från Sverige på brottsturnéer i Norge)
+
+   [59]: https://www.realisten.se/2014/02/01/realisten-pa-demonstration-med-gyllene-gryning/#comment-72479 (Commented on: Realisten på demonstration med Gyllene gryning)
+
+   [60]: https://www.realisten.se/wp-content/uploads/Frozen-200-330x140.jpg ()
+
+   [61]: https://www.realisten.se/2014/01/27/frost-ett-nordiskt-aventyr-fran-disney/
+
+   [62]: https://www.realisten.se/2014/01/27/frost-ett-nordiskt-aventyr-fran-disney/ (Frost — Ett nordiskt äventyr från Disney)
+
+   [63]: https://www.realisten.se/wp-content/uploads/attentat_gbg-330x140.jpg ()
+
+   [64]: https://www.realisten.se/2014/01/26/politiskt-attentat-mot-svenskpartist-leder-till-ny-fullmaktigekandidat/
+
+   [65]: https://www.realisten.se/2014/01/26/politiskt-attentat-mot-svenskpartist-leder-till-ny-fullmaktigekandidat/ (Politiskt attentat mot svenskpartist leder till ny fullmäktigekandidat)
+
+   [66]: https://www.realisten.se/wp-content/uploads/stephan_gunther-330x140.jpg ()
+
+   [67]: https://www.realisten.se/2014/01/24/stephan-gunther-riskerar-inte-langre-femarigt-fangelsestraff-for-olagliga-toner/
+
+   [68]: https://www.realisten.se/2014/01/24/stephan-gunther-riskerar-inte-langre-femarigt-fangelsestraff-for-olagliga-toner/ (Stephan Günther riskerar inte längre femårigt fängelsestraff för olagliga toner)
+
+   [69]: https://www.realisten.se/wp-content/uploads/zlatan-di-330x140.jpg ()
+
+   [70]: https://www.realisten.se/2014/01/24/zlatan-jag-ar-svensk-och-nationalsangen-ar-langtrakig/
+
+   [71]: https://www.realisten.se/wp-content/uploads/flyktingmote_gagnef-330x140.jpg ()
+
+   [72]: https://www.realisten.se/2014/01/23/gagnefs-politiker-motte-kritik-mot-flyktingforlaggning/
+
+   [73]: https://www.realisten.se/2014/01/23/gagnefs-politiker-motte-kritik-mot-flyktingforlaggning/ (Gagnefs politiker mötte kritik mot flyktingförläggning)
+
+   [74]: https://www.realisten.se/wp-content/uploads/riksdagshuset-330x140.jpg ()
+
+   [75]: https://www.realisten.se/2014/01/21/riksdagen-debatterade-politiskt-vald/
+
+   [76]: https://www.realisten.se/2014/01/21/riksdagen-debatterade-politiskt-vald/ (Riksdagen debatterade politiskt våld)
+
+   [77]: https://www.realisten.se/wp-content/uploads/daniel_spansk1-330x140.jpg ()
+
+   [78]: https://www.realisten.se/2014/01/19/daniel-spansk-svenskarnas-parti-bringar-valbehovd-vitalitet/
+
+   [79]: https://www.realisten.se/2014/01/19/daniel-spansk-svenskarnas-parti-bringar-valbehovd-vitalitet/ (Daniel Spansk: Svenskarnas parti bringar välbehövd vitalitet)
+
+   [80]: https://www.realisten.se/2014/01/24/profit-eller-kultur/ (Profit eller kultur?)
+
+   [81]: https://www.realisten.se/2014/01/24/profit-eller-kultur/
+
+   [82]: https://www.realisten.se/2014/01/24/jag-ar-svensk-och-zlatan-ar-langtrakig/ (Jag är svensk och Zlatan är långtråkig)
+
+   [83]: https://www.realisten.se/2014/01/24/jag-ar-svensk-och-zlatan-ar-langtrakig/
+
+   [84]: https://www.realisten.se/2014/01/23/barack-obama-i-cannabisliberalt-utspel/ (Barack Obama i cannabisliberalt utspel)
+
+   [85]: https://www.realisten.se/2014/01/23/barack-obama-i-cannabisliberalt-utspel/
+
+   [86]: https://www.realisten.se/2014/01/19/stod-inte-en-hopplos-politik/ (Stöd inte en hopplös politik)
+
+   [87]: https://www.realisten.se/2014/01/19/stod-inte-en-hopplos-politik/
+
+   [88]: https://www.realisten.se/2014/01/17/en-talande-bild/
+
+   [89]: https://www.realisten.se/wp-content/uploads/realisten-blagula.jpg
+
+   [90]: http://www.arminius.se/rockslagsmarke-blagula-bandet.html
+
+   [91]: https://www.realisten.se/wp-content/uploads/reklam_trotsiga.jpg
+
+   [92]: http://www.arminius.se/realistense-prenumeration-helar.html
+
+   [93]: https://www.realisten.se/wp-content/uploads/277.jpg
+
+   [94]: http://www.arminius.se/saga_berlin_djuren_i_yggdrasil.html
+
+   [95]: https://www.realisten.se/wp-
+content/uploads/realisten_reklam_vilka.jpg
+
+   [96]: http://www.arminius.se/kjellman-osten-vilka-borjade-andra-varldskriget.html
+
+   [97]: https://www.realisten.se/wp-content/uploads/realisten_banner1.jpg
+
+   [98]: https://www.realisten.se/stod-realisten/
+
