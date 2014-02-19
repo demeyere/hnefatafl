@@ -7,7 +7,7 @@ hnefatafl
 
 
 Condensed rules
-===============
+-----------------
 
 The center square (Throne) and the four corner squares (castles) may only be occupied by the King. 
 The King can re-enter the throne, once he leaves it, and all men may pass over the throne when it is empty. 
@@ -48,7 +48,7 @@ Board setup
 
 
 More information
-=================
+-----------------
 
 + <http://en.wikipedia.org/wiki/Tafl_games>
 + <http://hem.bredband.net/b512479/#Chap6>
