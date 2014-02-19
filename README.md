@@ -27,7 +27,7 @@ The King may take part in kills.
 
 The King himself is killed when the enemy surrounds him in all four directions. 
 
-The game is a draw if neither player can accomplish its objective, or the game starts to loop.
+The game is a draw if neither side can accomplish its objective, or the game starts to loop.
 
 
 Board setup
