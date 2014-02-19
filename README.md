@@ -19,9 +19,9 @@ A castle or an empty Throne is hostile to all men.
 The enemy moves first, and then players take alternate turns moving a single man. 
 All men may move any number of vacant squares along a row or a column, like a rook. 
 
-Men are killed if they are sandwiched between two opposing men, or between an opposing man and a castle or empty throne, along a column or a row. 
+Men are killed if they are sandwiched between two opposing men, or between an opposing man and a castle or empty Throne, along a column or a row. 
 A man is only killed if the trap is closed by a move of the opponent. 
-A killed man is removed from the board and is no longer active in the play. 
+A killed man is removed from the board. 
 The King may take part in kills.
 
 The King is killed when the enemy surrounds him in all four directions. 
