@@ -9,8 +9,8 @@ hnefatafl
 Condensed rules
 -----------------
 
-The center square (Throne) and the four corner squares (castles) may only be occupied by the King. 
-The King can re-enter the throne, once he leaves it, and all men may pass over the throne when it is empty. 
+The Throne (center square) and the castles (four corner squares) may only be occupied by the King. 
+The King can re-enter the Throne, once he leaves it, and all men may pass over the Throne when it is empty. 
 A castle or an empty Throne is hostile to all men. 
 
 > The objective for the King is to escape to a castle. 
