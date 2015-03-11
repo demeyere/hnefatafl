@@ -27,20 +27,20 @@ The game is a draw if neither side can accomplish its objective, or the game sta
 
 
 
-Board setup
+Startuppställning
 -----------------
 
-    T··EEEEE··T
-    ·····E·····
+    T··FFFFF··T
+    ·····F·····
     ···········
-    E····V····E
-    E···VVV···E
-    EE·VVKVV·EE
-    E···VVV···E
-    E····V····E
+    F····V····F
+    F···VVV···F
+    FF·VVKVV·FF
+    F···VVV···F
+    F····V····F
     ···········
-    ·····E·····
-    T··EEEEE··T
+    ·····F·····
+    T··FFFFF··T
 
 
 
