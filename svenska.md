@@ -3,27 +3,27 @@ hnefatafl
 =========
 
 
-Rules
+Regler
 -----------------
 
-The Throne (center square) and the castles (four corner squares) may only be occupied by the King. 
-The King can re-enter the Throne, once he leaves it, and all men may pass over the Throne when it is empty. 
-A castle or an empty Throne is hostile to all men. 
+Tronen (mittrutan) och slotten (fyra hörnrutorna) får bara vara upptagen av Kungen. 
+Kungen kan återinträda tronen efter han lämna den och alla män får passera över tronen när den är tom. 
+Slott och den tomma tronen är fientliga till alla män. 
 
-> The objective for the King is to escape to a castle. 
-> The objective for the enemy is to kill the King. 
+> Kungens målet är att rymma till ett slott. 
+> Fiendens målet är att döda Kungen. 
 
-The enemy moves first, and then players take alternate turns moving a single man. 
-All men may move any number of vacant squares along a row or a column, like a rook. 
+Fienden drar först, och sedan spelarna tar turas att flytta en enda man. 
+Alla män kan flytta valfritt antal tom rutor i rak linje som ett torn i schack. 
 
-Men are killed if they are sandwiched between two opposing men, or between an opposing man and a castle or empty Throne, along a column or a row. 
-A man is only killed if the trap is closed by a move of the opponent. 
-A killed man is removed from the board. 
-The King may take part in kills. 
+Män slås genom den omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma Tronen, på två motsatta sidor horisontellt eller vertikalt. 
+En man slås bara om fällan stängas av en drag av motståndare. 
+En dödad man är avlägsen från bordet. 
+Kungen få dela dödar. 
 
-The King is killed when the enemy surrounds him in all four directions. 
+Kungen slås när fienden omge han i alla fyra riktningar. 
 
-The game is a draw if neither side can accomplish its objective, or the game starts to loop. 
+Spelet är oavgjort om ingendera sidan kan utföra sitt mål, eller spelet slingra sig runt. 
 
 
 
