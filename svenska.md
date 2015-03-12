@@ -16,7 +16,7 @@ Slott och den tomma tronen är fientliga till alla män.
 Fienden drar först, och sedan spelarna tar turas att flytta en enda man. 
 Alla män kan flytta valfritt antal tom rutor i rak linje som ett torn i schack. 
 
-Män slås genom den omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma Tronen, på två motsatta sidor horisontellt eller vertikalt. 
+Män slås genom den omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma Tronen, på två motsatta längs en kolumn eller rad. 
 En man slås bara om fällan stängas av en drag av motståndare. 
 En dödad man är avlägsen från bordet. 
 Kungen få dela dödar. 
