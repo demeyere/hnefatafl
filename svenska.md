@@ -6,24 +6,24 @@ hnefatafl
 Regler
 -----------------
 
-Tronen (mittrutan) och slotten (fyra hörnrutorna) får bara vara upptagen av Kungen. 
-Kungen kan återinträda tronen efter han lämna den och alla män får passera över tronen när den är tom. 
-Slott och den tomma tronen är fientliga till alla män. 
+Tronen (mittrutan) och slotten (fyra hörnrutorna) får bara vara upptagna av Kungen. 
+Kungen kan komma tillbaka på tronen när han lämnat den och alla män får passera över tronen när den är tom. 
+Slott och den tomma tronen är fientliga mot alla män. 
 
-> Kungens målet är att rymma till ett slott. 
-> Fiendens målet är att döda Kungen. 
+> Kungens mål är att rymma till ett slott. 
+> Fiendens mål är att döda kungen. 
 
-Fienden drar först, och sedan spelarna tar turas att flytta en enda man. 
-Alla män kan flytta valfritt antal tom rutor i rak linje som ett torn i schack. 
+Fienden drar först, och sedan turas spelarna om att flytta en enda man. 
+Alla män kan flytta i rak linje så långt som det går genom tomma rutor.
 
-Män slås genom den omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma Tronen, på två motsatta längs en kolumn eller rad. 
-En man slås bara om fällan stängas av en drag av motståndare. 
-En dödad man är avlägsen från bordet. 
-Kungen få dela dödar. 
+Män dödas när de omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma tronen, på två motsatta sidor längs en kolumn eller rad. 
+En man dödas bara om fällan stängs av en motståndares drag. 
+En dödad man avlägsnas från brädet. 
+Kungen kan döda. 
 
-Kungen slås när fienden omge han i alla fyra riktningar. 
+Kungen dödas när fienden omge honom i alla fyra riktningar. 
 
-Spelet är oavgjort om ingendera sidan kan utföra sitt mål, eller spelet slingra sig runt. 
+Spelet är oavgjort om ingen kan genom föra sitt mål. 
 
 
 
