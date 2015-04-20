@@ -11,6 +11,7 @@ The King can re-enter the Throne, once he leaves it, and all men may pass over t
 A castle or an empty Throne is hostile to all men. 
 
 > The objective for the King is to escape to a castle. 
+
 > The objective for the enemy is to kill the King. 
 
 The enemy moves first, and then players take alternate turns moving a single man. 

@@ -11,6 +11,7 @@ Kungen kan komma tillbaka på tronen när han lämnat den och alla män får pas
 Slott och den tomma tronen är fientliga mot alla män. 
 
 > Kungens mål är att rymma till ett slott. 
+
 > Fiendens mål är att döda kungen. 
 
 Fienden drar först, och sedan turas spelarna om att flytta en enda man. 
