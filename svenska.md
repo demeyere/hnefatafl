@@ -51,5 +51,5 @@ Mer information
 + <http://en.wikipedia.org/wiki/Tafl_games>
 + <http://sv.wikipedia.org/wiki/Hnefatafl>
 + <http://hem.bredband.net/b512479/#Chap6>
-+ <https://www.realisten.se/2013/03/30/hnefatafl-viKingarnas-bradspel/>
 + [You Have to Play This 1,600-Year-Old ViKing War Game](https://medium.com/war-is-boring/cef088ae4e2d).
++ <http://www.fotevikensmuseum.se/d/vikingar/hur/spel/regler>
