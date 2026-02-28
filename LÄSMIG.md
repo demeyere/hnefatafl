@@ -7,24 +7,21 @@ Regler
 -----------------
 
 Tronen (mittrutan) och slotten (fyra hörnrutorna) får bara vara upptagna av Kungen. 
-Kungen kan komma tillbaka på tronen när han lämnat den och alla män får passera över tronen när den är tom. 
-Slott och den tomma tronen är fientliga mot alla män. 
+Kungen kan komma tillbaka på tronen när han lämnat den och alla män får passera över den tomma tronen. 
+Slott och den tomma tronen är fientliga mot fienden. 
 
 > Kungens mål är att rymma till ett slott. 
 
-> Fiendens mål är att döda kungen. 
-
-Fienden drar först, och sedan turas spelarna om att flytta en enda man. 
+Fienden drar först, och sedan turas motståndare om att flytta en enda man. 
 Alla män kan flytta i rak linje så långt som det går genom tomma rutor.
 
-Män dödas när de omges av två motståndare, eller mellan en motståndare och ett slott eller den tomma tronen, på två motsatta sidor längs en kolumn eller rad. 
+Män dödas när de omges av två motståndare, på två motsatta sidor längs en kolumn eller rad.
+Fienden kan också dödas om de omges av Kungen eller en av hans män, på ena sidan och ett slott eller den tomma tronen på den andra.
 En man dödas bara om fällan stängs av en motståndares drag. 
 En dödad man avlägsnas från brädet. 
 Kungen kan döda. 
 
-Kungen dödas när fienden omge honom i alla fyra riktningar. 
-
-Spelet är oavgjort om ingen kan genom föra sitt mål. 
+Kungen dödas när fienden omger honom i alla fyra riktningar. 
 
 
 
@@ -43,13 +40,4 @@ Startuppställning
     ·····F·····
     T··FFFFF··T
 
-
-
-Mer information
------------------
-
-+ <http://en.wikipedia.org/wiki/Tafl_games>
-+ <http://sv.wikipedia.org/wiki/Hnefatafl>
-+ <http://hem.bredband.net/b512479/#Chap6>
-+ [You Have to Play This 1,600-Year-Old ViKing War Game](https://medium.com/war-is-boring/cef088ae4e2d).
-+ <http://www.fotevikensmuseum.se/d/vikingar/hur/spel/regler>
+* Ta med dina egna krigare.
